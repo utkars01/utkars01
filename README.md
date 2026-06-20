@@ -14,5 +14,5 @@ Aspiring Software Engineer focused on Python, Gen AI, MongoDB, and DSA.
 - E-Commerce Website
 
 ## Contact
--LinkedIn: (https://linkedin.com/in/utkarsh-mishra-b54b79298)
--Email: utkacscmpi101@gmail.com
+- LinkedIn: https://linkedin.com/in/utkarsh-mishra-b54b79298
+- Email: utkacscmpi101@gmail.com
